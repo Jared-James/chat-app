@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-"scripts": {
+  "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon"
+    "dev": "nodemon src/index.js -L"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "bad-words": "^3.0.3",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
