@@ -2,7 +2,7 @@
 
 A simple chat room application created with sockets & express.
 
-Users can 
+### Users can 
 - 🚩 Create a user 
 - ⏩ Create a room 
 - 🕐 Enter a room 
