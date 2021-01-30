@@ -26,3 +26,7 @@ Scripts
 + ✔️  Language: Javascript
 + ✔️  Server: Express
 + ✔️ Style: CSS
+
+---
+runs on: localhost:3000
+- nodemon
