@@ -1,4 +1,4 @@
-# chat-app 🏣
+# 🏣 chat-app 
 
 A simple chat room application created with sockets & express.
 
