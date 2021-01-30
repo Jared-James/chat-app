@@ -34,4 +34,4 @@ Scripts
 
 ---
 
-<img align="center" alt="GIF" height="800px" src="readme_gif/chat-app-display.gif" />
+<img align="center" alt="GIF" height="750px" src="readme_gif/chat-app-display.gif" />
