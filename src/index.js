@@ -22,8 +22,6 @@ const publicDirectoryPath = path.join(__dirname, '../public')
 // Serve up the public directory
 app.use(express.static(publicDirectoryPath))
 
-const welcome = "Welcome!"
-
 // new client connecting - socket is an object
 io.on('connection', (socket) => {
   console.log('New Websocket connection')

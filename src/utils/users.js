@@ -31,6 +31,7 @@ const addUser = ({id, username, room}) => {
 
 }
 
+// remove user
 const removeUser = (id) => {
     const index = users.findIndex(user => user.id === id)
 
@@ -39,6 +40,7 @@ const removeUser = (id) => {
     }
 }
 
+// get user
 const getUser = (id) => {
     const user = users.find(user => user.id === id)
     if (!user) {
@@ -49,6 +51,7 @@ const getUser = (id) => {
     return user
 }
 
+// get all users in room
 const getUsersInRoom = (room) => {
     const usersInRoom = users.filter(user => user.room === room)
     
