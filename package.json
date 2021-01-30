@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js -L"
+    "server": "node src/index.js",
+    "start": "nodemon src/index.js -L"
   },
   "dependencies": {
     "bad-words": "^3.0.3",

@@ -13,9 +13,11 @@ A simple chat room application created with sockets & express.
 - 🌎 send their location  
 
 ---
+Install
+- NPM install
 
 Scripts
-- NPM RUN dev
+- NPM RUN start
 
 
 ---
