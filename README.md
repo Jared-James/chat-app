@@ -28,5 +28,6 @@ Scripts
 + ✔️ Style: CSS
 
 ---
-runs on: localhost:3000
+# runs on: 
+- localhost:3000
 - nodemon
