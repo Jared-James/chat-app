@@ -2,6 +2,8 @@
 
 A simple chat room application created with sockets & express.
 
+---
+
 ### Users can 
 - 🚩 Create a user 
 - ⏩ Create a room 
@@ -9,6 +11,8 @@ A simple chat room application created with sockets & express.
 - 📞 send messages  
 - ⏰ Be notified when a user enters or exits a room 
 - 🌎 send their location  
+
+---
 
 Scripts
 - NPM dev
