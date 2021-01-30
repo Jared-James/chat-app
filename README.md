@@ -14,6 +14,7 @@ A simple chat room application created with sockets & express.
 
 ---
 Install
+- Clone repo
 - NPM install
 
 Scripts
