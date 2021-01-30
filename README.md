@@ -1,6 +1,6 @@
 # chat-app
 
-A simple chat room application created with sockets.
+A simple chat room application created with sockets & express.
 
 Users can 
 - Create a user
