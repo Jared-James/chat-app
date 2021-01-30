@@ -16,3 +16,9 @@ A simple chat room application created with sockets & express.
 
 Scripts
 - NPM dev
+
+
+---
+
++ ✔️  Language: Javascript
++ ✔️ Style: CSS
