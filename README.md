@@ -31,3 +31,7 @@ Scripts
 # runs on: 
 - localhost:3000
 - nodemon
+
+---
+
+<img align="center" alt="GIF" height="500px" src="readme_gif/chat-app-display.gif" />
